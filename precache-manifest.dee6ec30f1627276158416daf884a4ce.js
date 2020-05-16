@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95d49981f765991bfd965c63058b7e29",
+    "revision": "110d807810e48549b10cf45102dbf401",
     "url": "/originoflife/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/originoflife/static/js/2.c4e92e98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aad4ac4360e6ba32bae6",
-    "url": "/originoflife/static/js/main.11784366.chunk.js"
+    "revision": "8f9add0e0ed54c7e5cc6",
+    "url": "/originoflife/static/js/main.1f620788.chunk.js"
   },
   {
     "revision": "3d77f230f03cbe3f3b2d",
     "url": "/originoflife/static/js/runtime-main.724e3ae9.js"
   },
   {
-    "revision": "6227495ec12bfdddd8ccc4a8d028a39f",
-    "url": "/originoflife/static/media/1.6227495e.jpg"
+    "revision": "1290bfa70085cf53c63cb2f804718a11",
+    "url": "/originoflife/static/media/1.1290bfa7.jpg"
   },
   {
     "revision": "56cc4d684879bc5260ddfdad545d46d0",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/originoflife/static/media/4.e4d9f08b.jpg"
   },
   {
-    "revision": "58f13f7738368e9c454b6c2e6ae79b9b",
-    "url": "/originoflife/static/media/5.58f13f77.jpg"
+    "revision": "da83710f9a5575b4a3c6f406c6358a70",
+    "url": "/originoflife/static/media/5.da83710f.jpg"
   },
   {
     "revision": "1502c30b82d171585626751c4af1457b",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/originoflife/static/media/7.4e8adf0a.jpg"
   },
   {
-    "revision": "03a7177bfaa77682d7c79edc3a20498a",
-    "url": "/originoflife/static/media/8.03a7177b.jpg"
+    "revision": "78a3dbdab252b92f726ef4cf8774c90a",
+    "url": "/originoflife/static/media/8.78a3dbda.jpg"
   }
 ]);
