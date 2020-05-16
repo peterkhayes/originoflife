@@ -9,6 +9,10 @@ import image5 from './images/5.jpg';
 import image6 from './images/6.jpg';
 import image7 from './images/7.jpg';
 import image8 from './images/8.jpg';
+import image9 from './images/9.jpg';
+import image10 from './images/10.jpg';
+import image11 from './images/11.jpg';
+import image12 from './images/12.jpg';
 
 const IMAGES = [
   image1,
@@ -19,6 +23,10 @@ const IMAGES = [
   image6,
   image7,
   image8,
+  image9,
+  image10,
+  image11,
+  image12,
 ]
 
 function Container() {
